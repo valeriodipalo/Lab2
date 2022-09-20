@@ -17,3 +17,4 @@ print(tickers)
 print((len(tickers))) #TODO: CHECK IF IT IS THE RIGHT LEN
 
 print('ciao mi chiamo valerio')
+print('a')
