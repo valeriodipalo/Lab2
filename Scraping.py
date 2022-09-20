@@ -14,4 +14,6 @@ for tr in table:
 
 tickers = tickers[1:]
 print(tickers)
-print((len(tickers)))
+print((len(tickers))) #TODO: CHECK IF IT IS THE RIGHT LEN
+
+print('ciao mi chiamo valerio')
